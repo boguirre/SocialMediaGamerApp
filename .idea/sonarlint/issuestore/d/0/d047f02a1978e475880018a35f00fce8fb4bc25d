@@ -1,0 +1,19 @@
+
+X
+java:S18541"=Remove this useless assignment to local variable "messageId".(Ûš¤üÿÿÿÿ
+I
+java:S14811".Remove this unused "messageId" local variable.(Ûš¤üÿÿÿÿ
+f
+java:S32529"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ò“
+k
+java:S3252:"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ºƒ°ûÿÿÿÿ
+I
+java:S1874@"3Remove this use of "getDrawable"; it is deprecated.(‚¾ŸÙ
+f
+java:S3252H"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ò“
+k
+java:S3252I"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ºƒ°ûÿÿÿÿ
+N
+java:S1874O"3Remove this use of "getDrawable"; it is deprecated.(¿˜ßüÿÿÿÿ
+4
+java:S1700n"Rename field "viewHolder"(üğõ™üÿÿÿÿ

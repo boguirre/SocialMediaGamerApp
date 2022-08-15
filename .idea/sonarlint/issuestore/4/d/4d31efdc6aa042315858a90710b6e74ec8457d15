@@ -1,0 +1,11 @@
+
+P
+java:S1874":Remove this use of "FirebaseInstanceId"; it is deprecated.(¸‚õ
+K
+java:S1874"5Remove this use of "getInstanceId"; it is deprecated.(¸‚õ
+N
+java:S1874"8Remove this use of "InstanceIdResult"; it is deprecated.(¸‚õ
+N
+java:S1874"8Remove this use of "InstanceIdResult"; it is deprecated.(Ô¿ş”
+>
+java:S1604"(Make this anonymous inner class a lambda(¸‚õ

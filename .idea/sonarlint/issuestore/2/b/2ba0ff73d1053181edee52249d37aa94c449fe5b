@@ -1,0 +1,15 @@
+
+>
+java:S1185 "(Remove this method to simply inherit it.(À»•ø
+3
+java:S21198"Save and re-use this "Random".(¼ÝÅf
+—
+java:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾’‘Â
+—
+java:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾’‘Â
+h
+java:S1192@"LDefine a constant instead of duplicating this literal "imageSender" 3 times.(àÚ½|8¯‰…ÀÚ/
+k
+java:S1192A"NDefine a constant instead of duplicating this literal "imageReceiver" 3 times.(•¯‡Ï8¯‰…ÀÚ/
+C
+java:S1604J"(Make this anonymous inner class a lambda(ãûŸ©ÿÿÿÿÿ

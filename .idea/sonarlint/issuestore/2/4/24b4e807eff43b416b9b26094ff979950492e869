@@ -1,0 +1,23 @@
+
+s	java:S1162"^Rename this field "REQUEST_CODE_GOOGLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸öÍ—
+7
+java:S11702"!Make this final field static too.(¸öÍ—
+[
+java:S1874s">Remove this use of "startActivityForResult"; it is deprecated.(¯ƒúâ8è­¸ì¢0
+l
+java:S1874w"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÉÎÍïıÿÿÿÿ8è­¸ì¢0
+Q	java:S125z"<This block of commented-out lines of code should be removed.(å†ò˜
+C
+java:S1604P"(Make this anonymous inner class a lambda(êÙÌ³üÿÿÿÿ
+>
+java:S1604W"(Make this anonymous inner class a lambda(Ø¸±
+C
+java:S1604^"(Make this anonymous inner class a lambda(‹ŒÑéşÿÿÿÿ
+K
+java:S1604"(Make this anonymous inner class a lambda(¥íîŸÿÿÿÿÿ8€®¸ì¢0
+F
+java:S1604°"(Make this anonymous inner class a lambda(€µÅâ8€®¸ì¢0
+F
+java:S1604£"(Make this anonymous inner class a lambda(À¶½ 8€®¸ì¢0
+K
+java:S1604Ê"(Make this anonymous inner class a lambda(ı¨½ûÿÿÿÿ8€®¸ì¢0

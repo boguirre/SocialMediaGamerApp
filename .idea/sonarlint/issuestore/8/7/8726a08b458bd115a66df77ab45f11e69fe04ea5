@@ -1,0 +1,20 @@
+
+l	java:S116"WRename this field "multicast_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( •ø«
+m	java:S116
+"XRename this field "canonical_ids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÄšİ
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿí¢ã8€›×Ò/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙõÀ´8€›×Ò/
+j	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²°ıÂ8Š›×Ò/
+j	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÈß±8Š›×Ò/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª»±¢
+‰
+java:S1319"gThe type of "results" should be an interface such as "List" rather than the implementation "ArrayList".(€Š³ûÿÿÿÿ8€¸ÕÒ/
+’
+java:S13195"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÄÖåšûÿÿÿÿ8Š›×Ò/
+‰
+java:S13199"gThe type of "results" should be an interface such as "List" rather than the implementation "ArrayList".(ˆï‡¶ÿÿÿÿÿ8Š›×Ò/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Š³ûÿÿÿÿ8€¸ÕÒ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Š³ûÿÿÿÿ8€¸ÕÒ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙõÀ´8Š›×Ò/
+m	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÈß±8Š›×Ò/

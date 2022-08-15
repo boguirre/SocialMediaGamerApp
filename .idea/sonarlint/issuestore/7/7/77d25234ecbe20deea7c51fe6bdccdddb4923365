@@ -1,0 +1,13 @@
+
+X
+java:S1854+"=Remove this useless assignment to local variable "commentId".(±µß¹úÿÿÿÿ
+I
+java:S1481+".Remove this unused "commentId" local variable.(±µß¹úÿÿÿÿ
+h
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(‚Şç×
+E
+java:S1066A"/Merge this if statement with the enclosing one.(¦Ì¿
+J
+java:S16046"(Make this anonymous inner class a lambda(ş¬‘ïúÿÿÿÿ8¾¡¸ì¢0
+4
+java:S1700W"Rename field "viewHolder"(üğõ™üÿÿÿÿ

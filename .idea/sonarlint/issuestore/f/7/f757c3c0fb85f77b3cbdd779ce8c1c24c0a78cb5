@@ -1,0 +1,62 @@
+
+€	java:S1168"fRename this field "GALERY_REQUEST_CODE_PROFILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãƒËğùÿÿÿÿ
+y	java:S1169"dRename this field "GALERY_REQUEST_CODE_COVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÜ‘ó
+z	java:S116:"eRename this field "PHOTO_REQUEST_CODE_PROFILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úòÌö
+x	java:S116;"cRename this field "PHOTO_REQUEST_CODE_COVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÇÌä
+<
+java:S11708"!Make this final field static too.(ãƒËğùÿÿÿÿ
+7
+java:S11709"!Make this final field static too.(ÌÜ‘ó
+7
+java:S1170:"!Make this final field static too.(úòÌö
+7
+java:S1170;"!Make this final field static too.(ÑÇÌä
+E
+java:S11977"*Move the array designators [] to the type.(Ğ–ª÷şÿÿÿÿ
+n
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(œ®—’şÿÿÿÿ
+n
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(šè‡óúÿÿÿÿ
+a
+java:S1874ê">Remove this use of "startActivityForResult"; it is deprecated.(”®€®øÿÿÿÿ8¶¨¸ì¢0
+a
+java:S1874…">Remove this use of "startActivityForResult"; it is deprecated.(µ²Ì‚şÿÿÿÿ8¾¨¸ì¢0
+g
+java:S1874Š"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾8¾¨¸ì¢0
+k
+java:S1192’"TDefine a constant instead of duplicating this literal "Se produjo un error" 4 times.(ñıèî
+F
+java:S1066›"/Merge this if statement with the enclosing one.(âÓïè
+K
+java:S1066£"/Merge this if statement with the enclosing one.(‘œŒıüÿÿÿÿ
+g	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¦‘É
+=
+java:S1604l"(Make this anonymous inner class a lambda(¸àÜ(
+C
+java:S1604s"(Make this anonymous inner class a lambda(şâÖşÿÿÿÿ
+C
+java:S1604z"(Make this anonymous inner class a lambda(…Ş˜ûÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(›¦¯‹úÿÿÿÿ
+K
+java:S1604Œ"(Make this anonymous inner class a lambda(¨™¤¡ùÿÿÿÿ8Ï¨¸ì¢0
+K
+java:S1604ç"(Make this anonymous inner class a lambda(û‹ÑØûÿÿÿÿ8Ï¨¸ì¢0
+K
+java:S1604ã"(Make this anonymous inner class a lambda(”ñ·âüÿÿÿÿ8Ï¨¸ì¢0
+K
+java:S1604Ş"(Make this anonymous inner class a lambda(û‹ÑØûÿÿÿÿ8Ï¨¸ì¢0
+F
+java:S1604Ú"(Make this anonymous inner class a lambda(¡Ù’³8Ï¨¸ì¢0
+K
+java:S1604"(Make this anonymous inner class a lambda(û‹ÑØûÿÿÿÿ8Ï¨¸ì¢0
+E
+java:S1604Œ"(Make this anonymous inner class a lambda(®äÈ 8Ï¨¸ì¢0
+K
+java:S1604±"(Make this anonymous inner class a lambda(àÜ­Ùıÿÿÿÿ8Ï¨¸ì¢0
+D
+java:S1604Á"(Make this anonymous inner class a lambda(¹ÖÉÕıÿÿÿÿ
+Y
+java:S2259"BA "NullPointerException" could be thrown; "data" is nullable here.(—ÃŠÖ
+^
+java:S2259š"BA "NullPointerException" could be thrown; "data" is nullable here.(˜Ş×’ùÿÿÿÿ
